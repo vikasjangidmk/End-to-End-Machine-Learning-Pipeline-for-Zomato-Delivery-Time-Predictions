@@ -16,3 +16,5 @@ source activate zomto/ -> Git bash
 3. Install your requirements file
 
 pip install -r requirements.txt
+
+!["Workflow of project"](2.png)
